@@ -119,8 +119,7 @@ This project delivers an analytically rigorous and reproducible framework for un
 
 ---
 
-## 📁 **Repository Structure (actual)**
-> The README below has been tailored to match the current repository layout as shown in your GitHub:  
+## 📁 **Repository Structure (actual)**  
 
 ```
 README.md
