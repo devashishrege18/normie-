@@ -134,8 +134,6 @@ vityarthi_project.docx
 - `screenshots.zip` — A zipped collection of output screenshots (charts, menus, and analysis outputs). Download and extract to view images.  
 - `vityarthi_project.docx` — The final project report (Word document) containing the methodology, results, screenshots and appendix with the full source code.
 
-> If you later reorganize (for example into `/screenshots` and `/report` folders), update this section accordingly.
-
 ---
 
 ## 📜 **License**
