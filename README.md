@@ -147,5 +147,3 @@ This project may be published under MIT License or any license of your choice.
 Pull requests are welcome! Please open issues if you find bugs or want enhancements.
 
 ---
-
-If you want, I will now **save this README.md file and provide a download link** so you can upload it directly to your repository (it will replace the existing README while keeping content intact).
